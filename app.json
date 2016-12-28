@@ -1,0 +1,12 @@
+{
+  "name": "Start on Heroku: LineBot",
+  "description": "Go Line Bot",
+  "keywords": [
+    "go",
+    "line",
+    "bot"
+  ],
+  "mount_dir": "src/github.com/clsung/linebot",
+  "website": "http://github.com/clsung/linebot",
+  "repository": "http://github.com/clsung/linebot"
+}
